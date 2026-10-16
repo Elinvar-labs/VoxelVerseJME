@@ -1,0 +1,8 @@
+MIDlet-1: VoxelMIDlet,/icon.png,voxelversejme.VoxelMIDlet
+MIDlet-Jar-Size: 183953
+MIDlet-Jar-URL: VoxelVerseJME.jar
+MIDlet-Name: VoxelVerseJME
+MIDlet-Vendor: Elinvar-labs
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
